@@ -1,9 +1,12 @@
+
 # CoconutMC
 
 CUSTOM MODPACK ! 92 mods inside for all convenience 
 
 How to install ? 
 Download the .zip from here, extract it. 
+
+<img src="https://user-images.githubusercontent.com/74218901/132998049-e38ffcf5-61a3-40a9-bfc6-2cffab0a70f2.png" width=50% height=50%>
 
 When i extract it i see another .zip file inside (CoconutMC-1.00.zip) , is that normal?
 - YES ! , DONT extract this one ! (that's the modpack)
