@@ -21,4 +21,4 @@ Once that done you will open forge ( like here : https://files.minecraftforge.ne
 
 Hey , i got a weird error , error 0 and crash logs tells me : Failed to write core dump. Minidumps are not enabled by default on client versions of Windows , what to do?
 
-https://appuals.com/minecraft-failed-core-dump/ , follow this link , you'll thanks me later
+https://appuals.com/minecraft-failed-core-dump/ , follow this link , you'll thank me later
