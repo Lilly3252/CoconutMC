@@ -1,7 +1,7 @@
 
 # CoconutMC
 
-CUSTOM MODPACK ! 92 mods inside for all convenience 
+CUSTOM MODPACK ! 92 mods inside for all convenience , this modpack needs at least between 3GB and 4GB to play without lags
 
 How to install ? 
 Download the .zip from here, extract it. 
