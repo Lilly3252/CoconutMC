@@ -1,6 +1,6 @@
 # CoconutMC
 
-CUSTOM MODPACK ! 92 mods inside for all conveinance 
+CUSTOM MODPACK ! 92 mods inside for all convenience 
 
 How to install ? 
 Download the .zip from here, extract it. 
