@@ -4,13 +4,7 @@
 CUSTOM MODPACK ! 92 mods inside for all convenience , this modpack needs at least between 3GB and 4GB of RAM to play without lags
 
 How to install ? 
-Download the .zip from here, extract it. 
-
-<img src="https://user-images.githubusercontent.com/74218901/132998049-e38ffcf5-61a3-40a9-bfc6-2cffab0a70f2.png" width=50% height=50%>
-
-When i extract it i see another .zip file inside (CoconutMC-1.00.zip) , is that normal?
-- YES ! , DONT extract this one ! (that's the modpack)
-<img src="https://user-images.githubusercontent.com/74218901/132997629-dcbf8c93-c514-4090-865e-fcf889155573.png" width=50% height=50%>
+Download the .zip from here
 
 Once that done you will open forge ( like here : https://files.minecraftforge.net/net/minecraftforge/forge/index_1.16.5.html )
 1) Create custom profile
@@ -20,7 +14,7 @@ Once that done you will open forge ( like here : https://files.minecraftforge.ne
 
 <img src="https://user-images.githubusercontent.com/74218901/132997641-0221fffd-413f-4917-9659-fe48e9fe2f5e.png" width=50% height=50%>
 
-3) take coconutMC-1.00.zip and that's it!
+3) take coconutMC-1.0.x.zip and that's it!
 <img src="https://user-images.githubusercontent.com/74218901/132997645-df0b7e3c-b891-4b41-8ada-0543e3083271.png" width=50% height=50%>
 
 
