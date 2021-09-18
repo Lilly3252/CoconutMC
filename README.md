@@ -6,7 +6,7 @@ CUSTOM MODPACK ! 92 mods inside for all convenience , this modpack needs at leas
 How to install ? 
 Download the .zip from here
 
-Once that done you will open forge ( like here : https://files.minecraftforge.net/net/minecraftforge/forge/index_1.16.5.html )
+Once that done you will open forge ( like here : https://download.curseforge.com )
 1) Create custom profile
 <img src="https://user-images.githubusercontent.com/74218901/132997638-96aff75e-47e5-46d1-8bf5-42b7a2ca4be9.png" width=50% height=50%>
 
